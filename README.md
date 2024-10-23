@@ -1,8 +1,10 @@
 Here’s a README.md file tailored to your Personal Expense Tracker project based on the points you provided:
 
-# API DEPLOY LINK :-  # https://backend-finance-assign.onrender.com
+## API DEPLOY LINK :-  # https://backend-finance-assign.onrender.com
 
-#  SAMPLE VIDEO LINK :-  https://drive.google.com/file/d/1lirbSCfMzN9xfVNGZQubCCJ0OruLiwud/view?usp=drive_link
+##  SAMPLE VIDEO LINK :-  https://drive.google.com/file/d/1lirbSCfMzN9xfVNGZQubCCJ0OruLiwud/view?usp=drive_link
+
+## SCREENSHOTS BELOW ↓
 
 # Personal Expense Tracker API
 
